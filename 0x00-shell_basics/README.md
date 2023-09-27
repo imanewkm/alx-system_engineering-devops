@@ -6,4 +6,5 @@
 5-listfilesdigitonly > user and group IDs displayed numerically
 6-firstdirectory > Creates a dirctory inside another directory
 7-movethatfile > Moving a file
-8-firstdelete
+8-firstdelete > Delete file
+9-firstdirdelete > Delete directory
