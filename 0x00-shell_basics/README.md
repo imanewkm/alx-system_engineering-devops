@@ -16,3 +16,4 @@
 100-lets_move > move all files beginning with _ to the /tmp/u
 101-clean_emacs > delete files that end with ~
 102-tree > creating a nested directory
+103-commas > ls files and directories separated by commas
