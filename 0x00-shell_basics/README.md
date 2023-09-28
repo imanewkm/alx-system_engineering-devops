@@ -11,3 +11,4 @@
 10-back > going back to the old directory
 11-lists > listing a number of files
 12-file_type > print the type of file
+13-symbolic_link > Creating a soft link to a file or a directory
