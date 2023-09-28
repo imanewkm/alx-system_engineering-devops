@@ -13,3 +13,4 @@
 12-file_type > print the type of file
 13-symbolic_link > Creating a soft link to a file or a directory
 14-copy_html > copy .html files from the working directory to the parent directory or new ones
+100-lets_move > move all files beginning with _ to the /tmp/u
