@@ -7,3 +7,4 @@
 6-multiple_permissions > give permissions
 7-everybody > add more permissions
 8-James_Bond > Permissions
+9-John_Doe > change mode
