@@ -17,3 +17,4 @@
 101-clean_emacs > delete files that end with ~
 102-tree > creating a nested directory
 103-commas > ls files and directories separated by commas
+school.mgc > create a magic file that can be used with the command file to detect School data files.
