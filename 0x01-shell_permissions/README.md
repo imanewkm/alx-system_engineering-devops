@@ -8,3 +8,4 @@
 7-everybody > add more permissions
 8-James_Bond > Permissions
 9-John_Doe > change mode
+10-mirror_permissions > cloning dir mode into another
