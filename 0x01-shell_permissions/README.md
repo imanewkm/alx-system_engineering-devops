@@ -9,3 +9,4 @@
 8-James_Bond > Permissions
 9-John_Doe > change mode
 10-mirror_permissions > cloning dir mode into another
+11-directories_permissions > adds execute permission to all subdirectories of the current directory
