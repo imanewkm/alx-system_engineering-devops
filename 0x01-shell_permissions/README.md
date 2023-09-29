@@ -12,3 +12,4 @@
 11-directories_permissions > adds execute permission to all subdirectories of the current directory
 12-directory_permissions > making a dir and preset permissions
 13-change_group > change group
+100-change_owner_and_group > change owner and grp owner of all files
