@@ -1,2 +1,2 @@
 0-hello_world > prints "Hello, World"
-1-confused_smiley > print "(Ôo)"
+1-confused_smiley > print "\"(Ôo)'"
