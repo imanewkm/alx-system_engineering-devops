@@ -6,3 +6,4 @@
 5-firstlines > display first 10 lines
 6-third_line > display 3rd line of a file
 7-file > make new file with content
+8-cwd_state
