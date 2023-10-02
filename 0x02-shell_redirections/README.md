@@ -11,3 +11,4 @@
 10-no_more_js > delete .js files
 11-directories > count directories
 12-newest_files > 10 newest files sorted
+14-findthatword > counts num of a word in a file
