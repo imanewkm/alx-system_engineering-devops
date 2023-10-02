@@ -3,3 +3,4 @@
 2-hellofile > content of /etc/passwd
 3-twofiles > display 2 files content
 4-lastlines > display last 10 lines
+5-firstlines > display first 10 lines
