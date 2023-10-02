@@ -10,3 +10,4 @@
 9-duplicate_last_line > duplicate last line
 10-no_more_js > delete .js files
 11-directories > count directories
+12-newest_files > 10 newest files sorted
