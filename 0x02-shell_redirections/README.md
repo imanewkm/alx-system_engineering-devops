@@ -8,3 +8,4 @@
 7-file > make new file with content
 8-cwd_state > current state of dir
 9-duplicate_last_line > duplicate last line
+10-no_more_js > delete .js files
