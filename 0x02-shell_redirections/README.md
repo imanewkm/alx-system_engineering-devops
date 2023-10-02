@@ -16,3 +16,4 @@
 18-letteronly > Display all lines of the file /etc/ssh/sshd_config starting with a letter
 19-AZ > replace letters
 20-hiago > delete c and C
+21-reverse > reverse input
