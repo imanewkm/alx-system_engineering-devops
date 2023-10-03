@@ -5,3 +5,4 @@
 4-global_variables > print environment variables
 5-local_variables > listing all var
 6-create_local_variable > create a var
+7-create_global_variable > global var
