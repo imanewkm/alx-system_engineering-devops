@@ -9,3 +9,4 @@
 8-true_knowledge > addition of a var and 128
 9-divide_and_rule > division
 10-love_exponent_breath > power
+11-binary_to_decimal > from binary to decimal
