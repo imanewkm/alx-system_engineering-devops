@@ -7,3 +7,4 @@
 6-create_local_variable > create a var
 7-create_global_variable > global var
 8-true_knowledge > addition of a var and 128
+9-divide_and_rule > division
