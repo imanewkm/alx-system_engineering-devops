@@ -14,3 +14,4 @@
 13-print_float > round up to 2 decimals
 100-decimal_to_hexadecimal > from decimal to hexadecimal
 101-rot13 > code input
+103-water_and_stir > adding two nums in specific bases
