@@ -12,3 +12,4 @@
 11-binary_to_decimal > from binary to decimal
 12-combinations > letter combinations
 13-print_float > round up to 2 decimals
+100-decimal_to_hexadecimal > from decimal to hexadecimal
