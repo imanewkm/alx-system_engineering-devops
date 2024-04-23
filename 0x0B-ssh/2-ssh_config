@@ -3,5 +3,5 @@
 Host web-01
 	Hostname 34.207.120.242
 	User ubuntu
-	PasswordAuthentication no
+	PasswordAuthentication betty
 	IdentityFile ~/.ssh/school
