@@ -2,7 +2,7 @@ sudo apt update
 sudo apt install snapd
 sudo apt-get remove certbot
 sudo apt-get install certbot
-sudo certbot certonly --standalone --preferred-challenges http --http-01-port 443 -d imanewkm.tech -d www.imanewkm.tech
+sudo certbot certonly --standalone --preferred-challenges http --http-01-port 80 -d imanewkm.tech -d www.imanewkm.tech
 sudo ls /etc/letsencrypt/live/www.imanewkm.tech
 sudo mkdir -p /etc/haproxy/certs
 DOMAIN='www.imanewkm.tech' sudo -E bash -c 'cat /etc/letsencrypt/live/$DOMAIN/fullchain.pem /etc/letsencrypt/live/$DOMAIN/privkey.pem > /etc/haproxy/certs/$DOMAIN.pem'
