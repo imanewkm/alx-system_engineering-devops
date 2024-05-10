@@ -34,16 +34,15 @@ defaults
   timeout server 15s
   timeout http-request 10s
 
-frontend clickviral-tech-frontend
+frontend imanewkm-tech-frontend
     bind *:80
-    default_backend clickviral-tech-backend
+    default_backend imanewkm-tech-backend
 
-backend clickviral-tech-backend
+backend imanewkm-tech-backend
     balance roundrobin
     server 531339-web-01 100.25.26.25:80 check
     server 531339-web-02 54.236.52.215:80 check
 "
-
 # shellcheck disable=SC2154
 echo "$server_config" | sudo dd status=none of=/etc/haproxy/haproxy.cfg
 

@@ -1,0 +1,27 @@
+
+# Set global defaults
+defaults
+    mode http
+    timeout client 15s
+    timeout connect 10s
+    timeout server 15s
+    timeout http-request 10s
+
+# Frontend configuration
+frontend imanewkm-tech-frontend
+    bind *:80
+    server_name imanewkm.tech www.imanewkm.tech;  # Replace with your actual domain
+    access_log /var/log/nginx/access.log;     # Optional: Enable access logs
+    error_log /var/log/nginx/error.log;       # Optional: Enable error logs
+
+    location / {
+        root /var/www/html;  # Set your document root
+        try_files  / =404;
+    }
+
+# Backend configuration
+backend imanewkm-tech-backend
+    balance roundrobin
+    server 531339-web-01 100.25.26.25:80 check;
+    server 531339-web-02 54.236.52.215:80 check;
+
