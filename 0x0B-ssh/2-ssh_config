@@ -1,7 +1,7 @@
 # SSH Config File
 #
 Host web-01
-	Hostname 100.25.26.25
+	Hostname 100.25.0.208
 	User ubuntu
 	PasswordAuthentication betty
 	IdentityFile ~/.ssh/school
